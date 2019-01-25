@@ -11,8 +11,8 @@ _Note: `internal` API endpoints may change between CDM release versions._
 
 ## CDM v4.2.1
 
-* [v1](https://172.21.8.53/docs/v1/)
-* [internal](https://github.com/rubrikinc/api-doc-internal)
+* [v1](https://rubrikinc.github.io/api-doc-v1/)
+* [internal](https://rubrikinc.github.io/api-doc-internal/)
 
 
 
