@@ -8,6 +8,12 @@ If you have access to a Rubrik cluster, you may also utilize the Rubrik API Play
 
 _Note: `internal` API endpoints may change between CDM release versions._
 
+## CDM v5.2
+
+* [v1](https://rubrikinc.github.io/api-doc-v1-5.2/)
+* [v2](https://rubrikinc.github.io/api-doc-v2-5.2/)
+* [internal](https://rubrikinc.github.io/api-doc-internal-5.2/)
+
 ## CDM v5.1
 
 * [v1](https://rubrikinc.github.io/api-doc-v1-5.1/)
