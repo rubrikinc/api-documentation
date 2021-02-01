@@ -4,7 +4,7 @@ The Rubrik REST API provides a RESTful interface for working with Rubrik cluster
 
 If you have access to a Rubrik cluster, you may also utilize the Rubrik API Playground at:
 
-`https://{{node_ip}}/docs/{{v1|v2|internal}}/playground`
+`https://{{node_ip}}/docs/{{v1|v2|v3|internal}}/playground`
 
 _Note: `internal` API endpoints may change between CDM release versions._
 
@@ -12,12 +12,14 @@ _Note: `internal` API endpoints may change between CDM release versions._
 
 * [v1](https://rubrikinc.github.io/api-doc-v1-5.3/)
 * [v2](https://rubrikinc.github.io/api-doc-v2-5.3/)
+* [v3](https://rubrikinc.github.io/api-doc-v3-5.3/)
 * [internal](https://rubrikinc.github.io/api-doc-internal-5.3/)
 
 ## CDM v5.2
 
 * [v1](https://rubrikinc.github.io/api-doc-v1-5.2/)
 * [v2](https://rubrikinc.github.io/api-doc-v2-5.2/)
+* [v3](https://rubrikinc.github.io/api-doc-v3-5.2/)
 * [internal](https://rubrikinc.github.io/api-doc-internal-5.2/)
 
 ## CDM v5.1
